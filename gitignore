@@ -1,0 +1,13 @@
+# Database
+students.db
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller temporary files
+build/
+
+# IDE
+.vscode/
