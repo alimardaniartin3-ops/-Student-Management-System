@@ -1,98 +1,50 @@
-\# Student Management System
+# 🎓 سیستم مدیریت دانش‌آموزان | Student Management System
 
+## 🇮🇷 معرفی پروژه
 
+این پروژه یک سیستم مدیریت دانش‌آموزان است که با زبان برنامه‌نویسی Python و پایگاه داده SQLite توسعه داده شده است.
 
-A bilingual student management application developed using Python and Tkinter.
+### امکانات
+- مدیریت اطلاعات دانش‌آموزان
+- ثبت و ذخیره اطلاعات در پایگاه داده SQLite
+- امکان اجرای برنامه در ویندوز با فایل EXE
+- رابط کاربری گرافیکی با Python و Tkinter
 
+### نحوه اجرا
+فایل `student_management_system.exe` را دانلود و اجرا کنید.
 
-
-\## Features
-
-
-
-\- Add, edit, and delete student records
-
-\- Manage student grades
-
-\- Calculate student averages
-
-\- Persian and English language support
-
-\- Manage grades 1 to 12
-
-\- Manage multiple class sections
-
-\- Search students by name and national ID
-
-\- SQLite database integration
-
-\- Modern graphical user interface
-
-\- Iranian national ID validation
-
-
-
-\## Technologies
-
-
-
-\- Python
-
-\- Tkinter
-
-\- SQLite
-
-\- JSON
-
-\- PyInstaller
-
-
-
-\## How to Run
-
-
-
-\### Windows Executable
-
-
-
-Download the latest version from the Releases section and run:
-
-
-
-`student\_management\_system.exe`
-
-
-
-\### Run from Source
-
-
-
-Install Python 3 and run:
-
-
-
+برای اجرای نسخه پایتون:
 ```bash
-
-python student\_management\_system.py
-
+python student_management_system.py
 ```
 
+---
 
+## 🇬🇧 English Description
 
-\## Database
+A Student Management System developed using Python and SQLite.
 
+### Features
+- Student information management
+- SQLite database integration
+- Windows executable (EXE)
+- Graphical user interface using Python Tkinter
 
+### How to Run
+Download and run `student_management_system.exe`.
 
-The application automatically creates its SQLite database when it starts.
+To run from source:
+```bash
+python student_management_system.py
+```
 
+---
 
+## 🛠 Technologies
+- Python
+- Tkinter
+- SQLite
+- PyInstaller
 
-\## License
-
-
-
-MIT License
-
-
-
+## 📄 License
+This project is available for educational and personal use.
